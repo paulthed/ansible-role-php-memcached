@@ -18,13 +18,13 @@ Available variables are listed below, along with default values (see `defaults/m
 
 ## Dependencies
 
-  - geerlingguy.php
+  - paulthed.php
 
 ## Example Playbook
 
     - hosts: webservers
       roles:
-        - { role: geerlingguy.php-memcached }
+        - { role: paulthed.php-memcached }
 
 ## License
 

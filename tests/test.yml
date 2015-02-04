@@ -4,5 +4,5 @@
 
   roles:
     - geerlingguy.memcached
-    - geerlingguy.php
+    - paulthed.php
     - ansible-role-php-memcached
